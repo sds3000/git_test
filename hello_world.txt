@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("hello world")
+=======
+hey
+>>>>>>> 57e8afea40f03d4e4ea4752888950958d8f37815
